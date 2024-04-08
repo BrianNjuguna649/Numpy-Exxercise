@@ -1,0 +1,2 @@
+# Numpy-Exxercise
+Numpy Exxercise
